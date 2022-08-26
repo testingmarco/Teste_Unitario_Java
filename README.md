@@ -1,4 +1,4 @@
-![image](https://user-images.githubusercontent.com/99621895/186980214-b8089a64-9c8f-4b8b-9ba5-4ca036135757.png)
+
 
 
 
@@ -17,6 +17,15 @@ Testar uma aplicação na sua menor parte
 Geralmente escrito em tempo de desenvolvimento
 
 ![image](https://user-images.githubusercontent.com/99621895/186979441-9c4b58c5-b308-403c-9fd3-42a33d70afd7.png)
+
+Estrutura Básica
+
+![image](https://user-images.githubusercontent.com/99621895/186980451-6d63437d-2a11-430f-834a-6b69872dde36.png)
+
+Comece a testar cedo
+
+![image](https://user-images.githubusercontent.com/99621895/186980722-5101cd1f-e5f3-4b7c-8d78-43d17ca8f405.png)
+
 
 2 Por quê escrever testes unitários ?
 
@@ -46,13 +55,33 @@ Cultura de agilidade
 
 Referências
 
+Boas Práticas ?
+
+https://junit.org/junit5
+
+Boas práticas
+
+Princípios FIRS
+T
+Pesquisar sobre automatizar testes
+
+![image](https://user-images.githubusercontent.com/99621895/186980910-321810e3-e363-41e5-8f62-b13ca0138500.png)
+
+
+
 https://imasters.com.br/devsecops/testes-unitarios-qual-a-importancia
-
 https://dayvsonlima.medium.com/entenda-de-uma-vez-por-todas-o-que-s%C3%A3o-testes-unit%C3%A1rios-para-que-servem-e-como-faz%C3%AA-los-2a6f645bab3
-
 https://medium.com/cesar-update/aprendendo-a-promover-uma-cultura-de-qualidade-no-desenvolvimento-de-software-%C3%A1gil-f5a3444d88d1
 
-![image](https://user-images.githubusercontent.com/99621895/186980080-7819c160-be4f-4ce1-9acb-842364b5e794.png)
+
+</p>
+<br/><br/>
+<p>
+    <img align=left margin=10 width=80 src="https://avatars.githubusercontent.com/u/99621895?s=400&u=6fc34c3626dca02a7ffaf540e887dd687fd93159&v=4"/>
+    <p>&nbsp&nbsp&nbspMarco Aurelio R Ramos<br>
+    &nbsp&nbsp&nbsp<a href="https://www.instagram.com/marcoqualityassurance/">Instagram</a>&nbsp;|&nbsp;<a href="https://github.com/testingmarco">GitHub</a>&nbsp;|&nbsp;<a href="https://www.linkedin.com/in/marcoa100/">LinkedIn</a>
+  </p>
+
 
 
 
